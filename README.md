@@ -4,10 +4,12 @@
 <p align="center">📍 Lovely Professional University • 💻 Passionate about building scalable web apps and clean UI/UX</p>
 
 <!-- ANIMATED BANNER -->
+<!-- BANNER - Using placeholder image -->
 <p align="center">
-  <img src="https://github.com/harshmishra00/harshmishra00/assets/128135126/4c2b9b3a-3d5b-4b4a-9f3e-2a2d9e7e0b7b" alt="Coding Banner" width="100%">
+  <img src="https://github.com/harshmishra00/harshmishra00/blob/main/assets/github-profile-banner.png?raw=true" alt="Coding Banner" width="100%">
+  <!-- Alternative using imgur -->
+  <!-- <img src="https://i.imgur.com/randomimage.png" width="100%"> -->
 </p>
-
 <!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Explorer;Let's+build+together!&font=Fira+Code&center=true&width=440&height=45&pause=1000&color=5BCDEC&size=24" alt="Typing SVG" />
@@ -92,28 +94,19 @@
 
 ## 🚀 Featured Projects
 
-### 🔧 Project Management Dashboard
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=project-management-dashboard&theme=react)](https://github.com/harshmishra00/project-management-dashboard)
+### 🔧 Student leaderboard
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=project-management-dashboard&theme=react)](https://github.com/harshmishra00/StudentLeaderboard)
 
-### 🛒 E-commerce Platform
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=e-commerce-platform&theme=react)](https://github.com/harshmishra00/e-commerce-platform)
+### 🛒 Real-time Activity event logger
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=e-commerce-platform&theme=react)](https://github.com/harshmishra00/RTOS)
 
----
+### 🛒 Farmer companion Website
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=e-commerce-platform&theme=react)](https://github.com/harshmishra00/FarmerCompanion)
 
-## 📈 Contribution Timeline
+### 🛒 Personal Portfolio Website
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=e-commerce-platform&theme=react)](https://github.com/harshmishra00/PersonalPortfolio)
 
-```mermaid
-gantt
-    title My Coding Journey
-    dateFormat  YYYY-MM-DD
-    section Education
-    B.Tech CSE           :active, edu, 2021-09, 2025-06
-    section Skills
-    Frontend Development : skill1, 2021-10, 2022-06
-    Backend Development  : skill2, 2022-03, 2023-01
-    Database Design      : skill3, 2022-08, 2023-04
-    UI/UX Design         : skill4, 2023-01, 2023-12
-    section Projects
-    Portfolio Website    : project1, 2022-05, 2022-07
-    E-commerce Platform  : project2, 2022-11, 2023-03
-    Task Manager App     : project3, 2023-06, 2023-09
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=harshmishra00&label=Profile+Views&color=0e75b6&style=flat" alt="harshmishra00" /> 
+</p>
+
