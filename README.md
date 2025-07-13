@@ -83,55 +83,50 @@
   <img src="https://github-profile-trophy.vercel.app/?username=harshmishra00&theme=onedark&no-frame=true&row=2&column=4" alt="harshmishra00" />
 </p>
 
----
+<h2>🚀 Featured Projects</h2>
 
-## 🚀 Featured Projects
+<div align="center">
 
----
+  <!-- Project 1 -->
+  <div style="display: inline-block; width: 45%; margin: 1%;">
+    <h4>🎯 Student Leaderboard</h4>
+    <a href="https://github.com/harshmishra00/StudentLeaderboard">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=StudentLeaderboard&theme=react" />
+    </a>
+    <p>Real-time leaderboard to track student scores using HTML, CSS, JS.</p>
+  </div>
 
-## 🚀 Featured Projects
+  <!-- Project 2 -->
+  <div style="display: inline-block; width: 45%; margin: 1%;">
+    <h4>🖥️ RTOS Event Logger</h4>
+    <a href="https://github.com/harshmishra00/RTOS">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=RTOS&theme=react" />
+    </a>
+    <p>Matrix-style system event logger using WebSockets and Node.js.</p>
+  </div>
 
----
+  <!-- Project 3 -->
+  <div style="display: inline-block; width: 45%; margin: 1%;">
+    <h4>🌾 Farmer Companion</h4>
+    <a href="https://github.com/harshmishra00/FarmerCompanion">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=FarmerCompanion&theme=react" />
+    </a>
+    <p>Platform for farmers with irrigation tips, Hindi UI, and price tracking.</p>
+  </div>
 
-## 🚀 Featured Projects
+  <!-- Project 4 -->
+  <div style="display: inline-block; width: 45%; margin: 1%;">
+    <h4>🌐 Personal Portfolio</h4>
+    <a href="https://github.com/harshmishra00/PersonalPortfolio">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=PersonalPortfolio&theme=react" />
+    </a>
+    <p>My personal portfolio with projects, GitHub stats, and contact links.</p>
+  </div>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🎯 Student Leaderboard</h4>
-      <a href="https://github.com/harshmishra00/StudentLeaderboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=StudentLeaderboard&theme=react" />
-      </a>
-      <p>Real-time leaderboard to track student scores using HTML, CSS, JS.</p>
-    </td>
-    
-    <td width="50%">
-      <h4>🖥️ RTOS Event Logger</h4>
-      <a href="https://github.com/harshmishra00/RTOS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=RTOS&theme=react" />
-      </a>
-      <p>Live Matrix-style system event logger using WebSockets and Node.js.</p>
-    </td>
-  </tr>
+</div>
+
+
   
-  <tr>
-    <td width="50%">
-      <h4>🌾 Farmer Companion</h4>
-      <a href="https://github.com/harshmishra00/FarmerCompanion">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=FarmerCompanion&theme=react" />
-      </a>
-      <p>Farmer-friendly platform with irrigation advice, Hindi UI, and price updates.</p>
-    </td>
-    
-    <td width="50%">
-      <h4>🌐 Personal Portfolio</h4>
-      <a href="https://github.com/harshmishra00/PersonalPortfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=PersonalPortfolio&theme=react" />
-      </a>
-      <p>My portfolio website showing skills, projects, and GitHub stats.</p>
-    </td>
-  </tr>
-</table>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=harshmishra00&label=Profile+Views&color=0e75b6&style=flat" alt="harshmishra00" /> 
