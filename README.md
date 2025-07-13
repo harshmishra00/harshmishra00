@@ -91,17 +91,47 @@
 
 ## 🚀 Featured Projects
 
-### 🎯 Student Leaderboard
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=StudentLeaderboard&theme=react)](https://github.com/harshmishra00/StudentLeaderboard)
+---
 
-### 🖥️ Real-time Activity Event Logger
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=RTOS&theme=react)](https://github.com/harshmishra00/RTOS)
+## 🚀 Featured Projects
 
-### 🌾 Farmer Companion Website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=FarmerCompanion&theme=react)](https://github.com/harshmishra00/FarmerCompanion)
-
-### 🌐 Personal Portfolio Website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=PersonalPortfolio&theme=react)](https://github.com/harshmishra00/PersonalPortfolio)
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🎯 Student Leaderboard</h4>
+      <a href="https://github.com/harshmishra00/StudentLeaderboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=StudentLeaderboard&theme=react" />
+      </a>
+      <p>Real-time leaderboard to track student scores using HTML, CSS, JS.</p>
+    </td>
+    
+    <td width="50%">
+      <h4>🖥️ RTOS Event Logger</h4>
+      <a href="https://github.com/harshmishra00/RTOS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=RTOS&theme=react" />
+      </a>
+      <p>Live Matrix-style system event logger using WebSockets and Node.js.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%">
+      <h4>🌾 Farmer Companion</h4>
+      <a href="https://github.com/harshmishra00/FarmerCompanion">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=FarmerCompanion&theme=react" />
+      </a>
+      <p>Farmer-friendly platform with irrigation advice, Hindi UI, and price updates.</p>
+    </td>
+    
+    <td width="50%">
+      <h4>🌐 Personal Portfolio</h4>
+      <a href="https://github.com/harshmishra00/PersonalPortfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=PersonalPortfolio&theme=react" />
+      </a>
+      <p>My portfolio website showing skills, projects, and GitHub stats.</p>
+    </td>
+  </tr>
+</table>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=harshmishra00&label=Profile+Views&color=0e75b6&style=flat" alt="harshmishra00" /> 
