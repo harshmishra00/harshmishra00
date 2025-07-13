@@ -87,17 +87,21 @@
 
 ## 🚀 Featured Projects
 
-### 🔧 Student leaderboard
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=project-management-dashboard&theme=react)](https://github.com/harshmishra00/StudentLeaderboard)
+---
 
-### 🛒 Real-time Activity event logger
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=e-commerce-platform&theme=react)](https://github.com/harshmishra00/RTOS)
+## 🚀 Featured Projects
 
-### 🛒 Farmer companion Website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=e-commerce-platform&theme=react)](https://github.com/harshmishra00/FarmerCompanion)
+### 🎯 Student Leaderboard
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=StudentLeaderboard&theme=react)](https://github.com/harshmishra00/StudentLeaderboard)
 
-### 🛒 Personal Portfolio Website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=e-commerce-platform&theme=react)](https://github.com/harshmishra00/PersonalPortfolio)
+### 🖥️ Real-time Activity Event Logger
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=RTOS&theme=react)](https://github.com/harshmishra00/RTOS)
+
+### 🌾 Farmer Companion Website
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=FarmerCompanion&theme=react)](https://github.com/harshmishra00/FarmerCompanion)
+
+### 🌐 Personal Portfolio Website
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=PersonalPortfolio&theme=react)](https://github.com/harshmishra00/PersonalPortfolio)
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=harshmishra00&label=Profile+Views&color=0e75b6&style=flat" alt="harshmishra00" /> 
