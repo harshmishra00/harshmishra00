@@ -6,7 +6,7 @@
 <!-- ANIMATED BANNER -->
 <!-- BANNER - Using placeholder image -->
 <p align="center">
-  <img src="https://github.com/harshmishra00/harshmishra00/blob/main/assets/github-profile-banner.png?raw=true" alt="Coding Banner" width="100%">
+  <img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-f274-6230-bf05-aa50cee3f24b/raw?se=2025-07-13T20%3A00%3A38Z&sp=r&sv=2024-08-04&sr=b&scid=0288ea91-8c2b-518e-a95a-58a4c9b0fa20&skoid=61180a4f-34a9-42b7-b76d-9ca47d89946d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-13T11%3A14%3A05Z&ske=2025-07-14T11%3A14%3A05Z&sks=b&skv=2024-08-04&sig=qjDH9U/n%2BgnWhZLIUPn9%2BUOk1wo/rHQ6Bkz2FHZOHEw%3D">
   <!-- Alternative using imgur -->
   <!-- <img src="https://i.imgur.com/randomimage.png" width="100%"> -->
 </p>
