@@ -3,73 +3,117 @@
 <h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 <p align="center">📍 Lovely Professional University • 💻 Passionate about building scalable web apps and clean UI/UX</p>
 
+<!-- ANIMATED BANNER -->
+<p align="center">
+  <img src="https://github.com/harshmishra00/harshmishra00/assets/128135126/4c2b9b3a-3d5b-4b4a-9f3e-2a2d9e7e0b7b" alt="Coding Banner" width="100%">
+</p>
+
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Explorer;Let's+build+together!&font=Fira+Code&center=true&width=440&height=45&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Explorer;Let's+build+together!&font=Fira+Code&center=true&width=440&height=45&pause=1000&color=5BCDEC&size=24" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **full-stack projects**  
-- 🤝 I’m looking to collaborate on open-source and real-world impactful projects  
-- 📫 Reach me at: `harshschoollife@gmail.com`  
-- 🧠 Fun fact: I love crafting things that make life simpler 🛠️
+- 🔭 Currently building **full-stack applications** with React & Node.js
+- 🌱 Learning **cloud technologies** and **advanced UI/UX design**
+- 🤝 Looking to collaborate on impactful open-source projects
+- 💬 Ask me about **web development**, **problem solving**, or **tech career growth**
+- 📫 Reach me: `harshschoollife@gmail.com`
+- ⚡ Fun fact: I once built a working calculator with CSS before learning JavaScript!
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,python,php,html,css,tailwind,bootstrap,react,nodejs,mongodb,mysql,linux,figma,photoshop,blender&theme=light" />
-</p>
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🌐 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+### 🛠️ Other Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshmishra00&show_icons=true&theme=default&hide=stars&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshmishra00&theme=default&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmishra00&layout=compact&theme=default&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  
+  <!-- Stats Cards -->
+  <a href="https://github.com/harshmishra00">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshmishra00&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmishra00&layout=compact&theme=react&hide_border=true"/>
+  </a>
+  
+  <!-- Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshmishra00&theme=react&hide_border=true" alt="harshmishra00" />
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshmishra00&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+  
+</div>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshmishra00&theme=flat&column=4&margin-w=10&no-frame=true" />
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=harshmishra00&theme=onedark&no-frame=true&row=2&column=4" alt="harshmishra00" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshmishra06" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:harshschoollife@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/harshmishra00">
-    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### 🔧 Project Management Dashboard
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=project-management-dashboard&theme=react)](https://github.com/harshmishra00/project-management-dashboard)
+
+### 🛒 E-commerce Platform
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshmishra00&repo=e-commerce-platform&theme=react)](https://github.com/harshmishra00/e-commerce-platform)
 
 ---
 
-## 👁️ Profile Visitors
+## 📈 Contribution Timeline
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshmishra00&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-<sub align="center">“Consistency beats intensity. Keep shipping.”</sub>
+```mermaid
+gantt
+    title My Coding Journey
+    dateFormat  YYYY-MM-DD
+    section Education
+    B.Tech CSE           :active, edu, 2021-09, 2025-06
+    section Skills
+    Frontend Development : skill1, 2021-10, 2022-06
+    Backend Development  : skill2, 2022-03, 2023-01
+    Database Design      : skill3, 2022-08, 2023-04
+    UI/UX Design         : skill4, 2023-01, 2023-12
+    section Projects
+    Portfolio Website    : project1, 2022-05, 2022-07
+    E-commerce Platform  : project2, 2022-11, 2023-03
+    Task Manager App     : project3, 2023-06, 2023-09
