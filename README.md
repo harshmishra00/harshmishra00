@@ -33,51 +33,72 @@ I'm a passionate Full Stack Developer currently pursuing my degree at **Lovely P
 
 ---
 
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 💅 Databases
+### 💽 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 💾 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛠️ Tools & Platforms
+### 🧰 Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshmishra00&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmishra00&layout=compact&theme=dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshmishra00&theme=dark&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshmishra00&theme=github-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=harshmishra00&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="180px" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmishra00&layout=compact&theme=github_dark&hide_border=true" height="180px" />
+
+  <!-- Streak Stats -->
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=harshmishra00&theme=dark&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" height="180px" />
+
+  <!-- Contribution Graph -->
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshmishra00&theme=github-dark&hide_border=true&area=true&custom_title=✨%20My%20Contribution%20Graph" width="100%"/>
+
 </div>
 
 ---
 
 ## 🌱 Currently Learning
 <div align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-FF6B81?style=for-the-badge&logo=openai&logoColor=white">
 </div>
 
 ---
+
 
 ## 💡 Did You Know?
 > "The first computer programmer was a woman! 👩‍💻  
@@ -93,12 +114,11 @@ I start every coding session with a cup of masala chai ☕ and lo-fi beats 🌷.
   <a href="mailto:harshschoollife@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/harshmishra06" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/harshmishra00"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://harshmishra.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=about.me&logoColor=white"></a>
   <a href="https://leetcode.com/u/harshmishra01/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
   <a href="https://codolio.com/profile/harxhmishra" target="_blank"><img src="https://img.shields.io/badge/Codolio-2B2D42?style=for-the-badge&logo=codio&logoColor=white"></a>
 </p>
 
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshmishra00&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
