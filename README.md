@@ -3,7 +3,7 @@
 
 
   <h1>👋 Hello World! I'm Harsh Mishra</h1>
-  <h3>Full Stack Developer • UI/UX Enthusiast • Good Observer</h3>
+  <h3>Mern Stack Developer • UI/UX Enthusiast • Good Observer</h3>
 
   <!-- TYPING ANIMATION -->
   <p>
