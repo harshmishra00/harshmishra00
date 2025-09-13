@@ -80,7 +80,7 @@ I'm a passionate Full Stack Developer currently pursuing my degree at **Lovely P
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmishra00&layout=compact&theme=github_dark&hide_border=true" height="180px" />
 
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies        
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harshmishra00&theme=flat&no-frame=true&row=1&column=7" />
