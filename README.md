@@ -112,7 +112,7 @@ I'm a passionate Full Stack Developer currently pursuing my degree at **Lovely P
 
 ## 💡 Did You Know?
 > "The first computer programmer was a woman! 👩‍💻  
-> **Ada Lovelace** wrote the first algorithm in 1843 for Charles Babbage's Analytical Engine."
+> **Ada Lovelace** wrote the first algorithm in 1843 for Charles Babbage's Analytical Engine."      
 
 **About Me:**  
 I start every coding session with a cup of masala chai ☕ and lo-fi beats 🌷.  
