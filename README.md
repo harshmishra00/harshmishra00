@@ -2,7 +2,7 @@
 <div align="center">
 
 
-  <h1>👋 Hello World! I'm Harsh Mishra</h1>
+  <h1>👋 Hello World!  I'm Harsh Mishra</h1>
   <h3>Mern Stack Developer • UI/UX Enthusiast • Good Observer</h3>
 
   <!-- TYPING ANIMATION -->
