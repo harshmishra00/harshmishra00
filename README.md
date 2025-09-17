@@ -28,43 +28,42 @@ I love solving problems, building **scalable web apps**, and crafting **beautifu
 ## 🛠️ Tech Stack  
 
 <!-- Frontend -->
-**Frontend:**  
-<img src="https://skillicons.dev/icons?i=react" width="30"/> React  
-<img src="https://skillicons.dev/icons?i=js" width="30"/> JavaScript  
-<img src="https://skillicons.dev/icons?i=html" width="30"/> HTML5  
-<img src="https://skillicons.dev/icons?i=css" width="30"/> CSS3  
-<img src="https://skillicons.dev/icons?i=tailwind" width="30"/> TailwindCSS  
-<img src="https://skillicons.dev/icons?i=bootstrap" width="30"/> Bootstrap  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
-**Backend & Languages:**  
-<img src="https://skillicons.dev/icons?i=nodejs" width="30"/> Node.js  
-<img src="https://skillicons.dev/icons?i=express" width="30"/> Express.js  
-<img src="https://skillicons.dev/icons?i=python" width="30"/> Python  
-<img src="https://skillicons.dev/icons?i=java" width="30"/> Java  
-<img src="https://skillicons.dev/icons?i=php" width="30"/> PHP  
-<img src="https://skillicons.dev/icons?i=c" width="30"/> C  
-<img src="https://skillicons.dev/icons?i=cpp" width="30"/> C++  
+<!-- Backend & Languages -->
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
-**Database & Tools:**  
-<img src="https://skillicons.dev/icons?i=mysql" width="30"/> MySQL  
-<img src="https://skillicons.dev/icons?i=mongodb" width="30"/> MongoDB  
-<img src="https://skillicons.dev/icons?i=git" width="30"/> Git  
-<img src="https://skillicons.dev/icons?i=github" width="30"/> GitHub  
-<img src="https://skillicons.dev/icons?i=linux" width="30"/> Linux  
-<img src="https://skillicons.dev/icons?i=vscode" width="30"/> VS Code  
-<img src="https://skillicons.dev/icons?i=postman" width="30"/> Postman  
+<!-- Database & Tools -->
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-**Design & Productivity:**  
-<img src="https://skillicons.dev/icons?i=figma" width="30"/> Figma  
-<img src="https://skillicons.dev/icons?i=canva" width="30"/> Canva  
-<img src="https://skillicons.dev/icons?i=ps" width="30"/> Photoshop  
-<img src="https://skillicons.dev/icons?i=notion" width="30"/> Notion  
+<!-- Design & Productivity -->
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 📊 GitHub Stats  
 
