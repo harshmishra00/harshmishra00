@@ -25,17 +25,46 @@ I love solving problems, building **scalable web apps**, and crafting **beautifu
 
 📩 Reach me: **harshschoollife@gmail.com**  
 
+## 🛠️ Tech Stack  
+
+<!-- Frontend -->
+**Frontend:**  
+<img src="https://skillicons.dev/icons?i=react" width="30"/> React  
+<img src="https://skillicons.dev/icons?i=js" width="30"/> JavaScript  
+<img src="https://skillicons.dev/icons?i=html" width="30"/> HTML5  
+<img src="https://skillicons.dev/icons?i=css" width="30"/> CSS3  
+<img src="https://skillicons.dev/icons?i=tailwind" width="30"/> TailwindCSS  
+<img src="https://skillicons.dev/icons?i=bootstrap" width="30"/> Bootstrap  
+
 ---
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" /><br/>
-  <!-- Backend & Languages -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,c,cpp" /><br/>
-  <!-- Database & Tools -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,linux,vscode,postman" /><br/>
-  <!-- Design & Productivity -->
-  <img src="https://skillicons.dev/icons?i=figma,canva,ps,notion" />
-</p>
+
+**Backend & Languages:**  
+<img src="https://skillicons.dev/icons?i=nodejs" width="30"/> Node.js  
+<img src="https://skillicons.dev/icons?i=express" width="30"/> Express.js  
+<img src="https://skillicons.dev/icons?i=python" width="30"/> Python  
+<img src="https://skillicons.dev/icons?i=java" width="30"/> Java  
+<img src="https://skillicons.dev/icons?i=php" width="30"/> PHP  
+<img src="https://skillicons.dev/icons?i=c" width="30"/> C  
+<img src="https://skillicons.dev/icons?i=cpp" width="30"/> C++  
+
+---
+
+**Database & Tools:**  
+<img src="https://skillicons.dev/icons?i=mysql" width="30"/> MySQL  
+<img src="https://skillicons.dev/icons?i=mongodb" width="30"/> MongoDB  
+<img src="https://skillicons.dev/icons?i=git" width="30"/> Git  
+<img src="https://skillicons.dev/icons?i=github" width="30"/> GitHub  
+<img src="https://skillicons.dev/icons?i=linux" width="30"/> Linux  
+<img src="https://skillicons.dev/icons?i=vscode" width="30"/> VS Code  
+<img src="https://skillicons.dev/icons?i=postman" width="30"/> Postman  
+
+---
+
+**Design & Productivity:**  
+<img src="https://skillicons.dev/icons?i=figma" width="30"/> Figma  
+<img src="https://skillicons.dev/icons?i=canva" width="30"/> Canva  
+<img src="https://skillicons.dev/icons?i=ps" width="30"/> Photoshop  
+<img src="https://skillicons.dev/icons?i=notion" width="30"/> Notion  
 
 ## 📊 GitHub Stats  
 
