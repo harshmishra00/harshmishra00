@@ -5,7 +5,7 @@
   <h1>👋 Hello World!  I'm Harsh Mishra</h1>
   <h3>Mern Stack Developer • UI/UX Enthusiast • Good Observer</h3>
 
-  <!-- TYPING ANIMATION -->
+ 
   <p>
     <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;UI/UX+Designer;Open+Source+Contributor;Tech+Explorer;Let's+build+together!&font=Fira+Code&center=true&width=500&height=45&color=5BCDEC&size=22&duration=3000&pause=1000" alt="Typing SVG">
   </p>
