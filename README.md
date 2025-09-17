@@ -80,16 +80,16 @@ I love solving problems, building **scalable web apps**, and crafting **beautifu
 
 ---
 
-## 🌱 Currently Exploring  
+## 🚀 Currently Exploring  
 
-<div align="center">
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)  
-![AI](https://img.shields.io/badge/AI-FF6B81?style=for-the-badge&logo=openai&logoColor=white)  
 
-</div>
 
 ---
 
