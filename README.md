@@ -101,17 +101,13 @@ I love solving problems, building **scalable web apps**, and crafting **beautifu
 
 ---
 
-## 📬 Connect With Me  
+## 📧 Connect With Me  
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshschoollife@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshmishra06)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshmishra00)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harshmishra01/)  
-[![Codolio](https://img.shields.io/badge/Codolio-2B2D42?style=for-the-badge&logo=codio&logoColor=white)](https://codolio.com/profile/harxhmishra)  
-
-</div>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshschoollife@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshmishra06) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshmishra00) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harshmishra01/) 
+[![Codolio](https://img.shields.io/badge/Codolio-2B2D42?style=for-the-badge&logo=codio&logoColor=white)](https://codolio.com/profile/harxhmishra)
 
 ---
 
