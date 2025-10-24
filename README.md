@@ -1,4 +1,3 @@
-                           
 <div align="center">         
 
 # 👋 Hi, I'm Harsh Mishra  
@@ -26,7 +25,6 @@ I love solving problems, building **scalable web apps**, and crafting **beautifu
 📩 Reach me: **harshschoollife@gmail.com**  
 
 ## 🛠️ Tech Stack  
-
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -76,6 +74,9 @@ I love solving problems, building **scalable web apps**, and crafting **beautifu
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshmishra00&label=Profile%20Views&color=00ccff&style=flat-square)  
 
+<!-- Holopin Badge Board -->
+[![Holopin Badge Board](https://holopin.io/api/user/board?user=harshmishra00)](https://www.holopin.io/@harshmishra00)
+
 </div>
 
 ---
@@ -88,8 +89,6 @@ I love solving problems, building **scalable web apps**, and crafting **beautifu
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
 
 ---
 
