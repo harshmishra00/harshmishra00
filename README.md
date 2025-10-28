@@ -24,6 +24,8 @@ I love solving problems, building **scalable web apps**, and crafting **beautifu
 
 📩 Reach me: **harshschoollife@gmail.com**  
 
+---
+
 ## 🛠️ Tech Stack  
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -51,6 +53,8 @@ I love solving problems, building **scalable web apps**, and crafting **beautifu
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+---
+
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -74,8 +78,19 @@ I love solving problems, building **scalable web apps**, and crafting **beautifu
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshmishra00&label=Profile%20Views&color=00ccff&style=flat-square)  
 
-<!-- Holopin Badge Board -->
-[![Holopin Badge Board](https://holopin.io/api/user/board?user=harshmishra00)](https://www.holopin.io/@harshmishra00)
+</div>
+
+---
+
+## 🪄 Holopin Badges
+
+<div align="center">
+
+[![Holopin Profile](https://img.shields.io/badge/Holopin-Visit%20My%20Badge%20Board-3C0A6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://holopin.io/@harshmishra00)
+
+
+
+<img src="https://holopin.me/harshmishra00" width="800" alt="Holopin Badges"/>
 
 </div>
 
