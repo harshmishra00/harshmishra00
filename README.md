@@ -68,6 +68,7 @@ I love solving problems, building **scalable web apps**, and crafting **beautifu
 
 ---
 
+
 ## 🏆 Achievements & Highlights  
 
 <div align="center">
@@ -93,6 +94,9 @@ I love solving problems, building **scalable web apps**, and crafting **beautifu
 <img src="https://holopin.me/harshmishra00" width="800" alt="Holopin Badges"/>
 
 </div>
+---
+
+[![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=harshmishra01&theme=dark&border=border&animated=true)](https://leetcode.com/u/harshmishra01/)
 
 ---
 
