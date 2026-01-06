@@ -1,133 +1,170 @@
-<div align="center">         
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Harsh%20Mishra&fontSize=85&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=MERN%20Stack%20•%20UI%2FUX%20•%20Open%20Source&descAlignY=55" width="100%" />
+</div>
 
-# 👋 Hi, I'm Harsh Mishra  
-### 💻 MERN Stack Developer • 🎨 UI/UX Enthusiast • 👀 Keen Observer  
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=5BCDEC&center=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Designer;Open+Source+Contributor;Tech+Explorer;Let's+Build+Together!" alt="Typing SVG" />
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=33C1FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Designing+Clean+User+Interfaces;Turning+Coffee+Into+Code" />
 </div>
 
 ---
 
-## 🧑‍💻 About Me  
+## 👋 Hi, I'm **Harsh Mishra**
+**Full Stack Developer | MERN | UI/UX Focused**
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Animation"/>
-
-I’m a passionate **Full Stack Developer** pursuing my degree at **Lovely Professional University**.  
-I love solving problems, building **scalable web apps**, and crafting **beautiful UIs**.  
-
-✨ Highlights:  
-- 🚀 Currently building **React + Node.js** applications  
-- 🌱 Exploring **Cloud Tech** & **Advanced UI Animations**  
-- 🎯 Ask me about **Web Development**, **UI/UX**, and **Career Growth in Tech**  
-- 🐭 Fun Fact: I’m also great at **video & photo editing**  
-
-📩 Reach me: **harshschoollife@gmail.com**  
+<div align="center">
+  <a href="mailto:harshschoollife@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/harshmishra06"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/harshmishra00"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://leetcode.com/u/harshmishra01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://codolio.com/profile/harxhmishra"><img src="https://img.shields.io/badge/Codolio-2B2D42?style=for-the-badge&logo=codio&logoColor=white"/></a>
+</div>
 
 ---
 
-## 🛠️ Tech Stack  
+## 👨‍💻 Developer’s Corner
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+<div align="center">
+  <table>
+    <tr>
+      <td width="55%" valign="middle">
+        <h3>❝ I don’t just write code, I build experiences ❞</h3>
+        🎓 Lovely Professional University<br/>
+        💻 MERN Stack Developer<br/>
+        🎨 UI/UX Enthusiast
+      </td>
+      <td width="45%" align="center">
+        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 What I'm Doing
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<ul>
+<li>🔭 Building scalable MERN applications</li>
+<li>🎨 Designing minimalist UI/UX</li>
+<li>🌱 Learning Docker, Kubernetes & AWS</li>
+<li>⚡ Exploring Next.js & GraphQL</li>
+</ul>
+</td>
+<td width="50%">
+<ul>
+<li>🧠 Clean code > Clever code</li>
+<li>🤝 Open source contributor</li>
+<li>☕ Coffee powered developer</li>
+<li>🎬 Video editing enthusiast</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320"/>
+  <p><i>When the code finally works…</i></p>
+</div>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshmishra00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmishra00&layout=compact&theme=tokyonight&hide_border=true" height="170"/>  
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,figma&perline=7" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=harshmishra00&theme=tokyonight&hide_border=true" height="170"/>  
+<br/><br/>
+
+**Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase&perline=5" />
+
+<br/><br/>
+
+**DevOps & Tools**  
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github&perline=5" />
+
+<br/><br/>
+
+**Languages**  
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python,php&perline=6" />
 
 </div>
-
----
-
-
-## 🏆 Achievements & Highlights  
 
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=harshmishra00&theme=darkhub&no-frame=true&row=1&column=7)  
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshmishra00&theme=tokyo-night&hide_border=true&area=true&custom_title=✨%20My%20Contribution%20Graph)  
-
-![Profile Views](https://komarev.com/ghpvc/?username=harshmishra00&label=Profile%20Views&color=00ccff&style=flat-square)  
-
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="260"/>
+  <p><i>Yes, I actually use these 😄</i></p>
 </div>
 
 ---
 
-## 🪄 Holopin Badges
+## 📊 GitHub Analytics
 
 <div align="center">
-
-[![Holopin Profile](https://img.shields.io/badge/Holopin-Visit%20My%20Badge%20Board-3C0A6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://holopin.io/@harshmishra00)
-
-
-
-<img src="https://holopin.me/harshmishra00" width="800" alt="Holopin Badges"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=harshmishra00&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshmishra00&theme=tokyonight&hide_border=true" height="170"/>
 </div>
----
 
-[![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=harshmishra01&theme=dark&border=border&animated=true)](https://leetcode.com/u/harshmishra01/)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshmishra00&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
 
----
-
-## 🚀 Currently Exploring  
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<div align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280"/>
+  <p><i>Checking GitHub stats again…</i></p>
+</div>
 
 ---
 
-## 💡 Fun Fact  
+## 🏆 Achievements
 
-> 💡 *“The first computer programmer was a woman — **Ada Lovelace**, who wrote the first algorithm in 1843.”*  
-
-☕ I start every coding session with **masala chai** & 🎵 **lo-fi beats**.  
-
----
-
-## 📧 Connect With Me  
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshschoollife@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshmishra06) 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshmishra00) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harshmishra01/) 
-[![Codolio](https://img.shields.io/badge/Codolio-2B2D42?style=for-the-badge&logo=codio&logoColor=white)](https://codolio.com/profile/harxhmishra)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshmishra00&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <br/><br/>
+  <a href="https://leetcode.com/u/harshmishra01/">
+    <img src="https://leetcard.jacoblin.cool/harshmishra01?theme=dark" height="180"/>
+  </a>
+</div>
 
 ---
 
-<p align="center"><i>“First, solve the problem. Then, write the code.” – John Johnson</i></p>  
-<p align="center">✨ Thanks for visiting my profile — Have an amazing day! 😄</p>
+## 🎯 Daily Developer Life
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><b>Plan</b></td>
+<td align="center"><b>Reality</b></td>
+</tr>
+<tr>
+<td><img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="260"/></td>
+<td><img src="https://media.giphy.com/media/3o7TKz8a8XWhv5A3mE/giphy.gif" width="260"/></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://media.giphy.com/media/26ufjJgVomJ2tSdqw/giphy.gif" width="320"/>
+<p><i>Debugging at 3 AM</i></p>
+</div>
+
+---
+
+## 📫 Let’s Connect
+
+<div align="center">
+  <a href="mailto:harshschoollife@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/harshmishra06"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge"/></a>
+  <br/><br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=15&section=footer&width=100%"/>
+</div>
