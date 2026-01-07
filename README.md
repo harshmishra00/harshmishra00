@@ -12,10 +12,11 @@
 ### Full Stack Developer | MERN | UI/UX Focused
 
 <p align="">
-💻 End-to-end Web Development <br/>
-🎨 UI/UX + Backend Logic <br/>
-🤝 Open Source<br/>
-  
+💻 Full-stack web development <br/>
+🎨 UI/UX & clean design systems <br/>
+⚙️ Backend logic & APIs <br/>
+🧠 Problem solving & optimization <br/>
+🤝 Open-source & continuous learning <br/>
 </p>
 
 ---
@@ -43,6 +44,11 @@
 
 ---
 
+## 🧩 Streak
+<img src="https://streak-stats.demolab.com?user=harshmishra00&theme=tokyonight" />
+
+
+
 ##  TechStack
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90" alt="HTML"/>
@@ -58,6 +64,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="90" alt="GitHub"/>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="90" alt="Docker"/>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
+<img src="https://skillicons.dev/icons?i=c" width="70" alt="C"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="70" alt="C++"/>
+<img src="https://skillicons.dev/icons?i=java" width="70" alt="Java"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="70" alt="PostgreSQL"/>
+<img src="https://cdn.simpleicons.org/databricks" width="70" alt="DBMS"/>
+<img src="https://skillicons.dev/icons?i=postman" width="70" alt="Postman"/>
 </div>
 
 ---
@@ -71,17 +83,22 @@
 [![Holopin](https://holopin.me/harshmishra00)](https://holopin.io/@harshmishra00)
 
 </p>
-
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats-git-main-anuraghazra.vercel.app/api?username=harshmishra00&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=harshmishra00&theme=tokyonight" width="48%"/>
-</p>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshmishra00&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<picture width="full">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 
@@ -90,3 +107,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=14&section=footer"/>
 </div>
+
