@@ -11,18 +11,18 @@
 
 ### Full Stack Developer | MERN | UI/UX Focused
 
-<p align="">
-💻 Full-stack web development <br/>
-🎨 UI/UX & clean design systems <br/>
-⚙️ Backend logic & APIs <br/>
-🧠 Problem solving & optimization <br/>
-🤝 Open-source & continuous learning <br/>
-</p>
+<img align="right" alt="" height="200"
+src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif">
 
----
+I’m a **Full Stack Developer** who loves building  
+scalable web apps, clean UIs, and solid backend systems.
+- 💻 Full-stack web development (MERN & modern web)
+- 🎨 UI/UX & clean design systems
+- ⚙️ Backend logic & REST APIs
+- 🧠 Problem solving & optimization
+- 🤝 Open-source & continuous learning
 
-## 🌐 Connect With Me
-
+<br clear="right"/>
 <p align="center">
 <a href="mailto:harshschoollife@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/harshmishra06"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -42,12 +42,12 @@
 🎯 UX is not optional <br/>
 </p>
 
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=harshmishra00&theme=tokyonight" width="50%">
+</div>
+<br/>
+
 ---
-
-## 🧩 Streak
-<img src="https://streak-stats.demolab.com?user=harshmishra00&theme=tokyonight" />
-
-
 
 ##  TechStack
 <div align="center">
@@ -67,25 +67,28 @@
 <img src="https://skillicons.dev/icons?i=c" width="70" alt="C"/>
 <img src="https://skillicons.dev/icons?i=cpp" width="70" alt="C++"/>
 <img src="https://skillicons.dev/icons?i=java" width="70" alt="Java"/>
-<img src="https://skillicons.dev/icons?i=postgres" width="70" alt="PostgreSQL"/>
-<img src="https://cdn.simpleicons.org/databricks" width="70" alt="DBMS"/>
 <img src="https://skillicons.dev/icons?i=postman" width="70" alt="Postman"/>
 </div>
+<br/>
 
 ---
-
-
-
 ## 🧩 Holopin Badges
 
 <p align="center">
   
 [![Holopin](https://holopin.me/harshmishra00)](https://holopin.io/@harshmishra00)
 
+<!-- Activity Graph -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=harshmishra00&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 </p>
----
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshmishra00&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-<picture width="full">
+
+<!-- Contribution Snake -->
+<picture style="display:block; width:100%;">
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
@@ -95,16 +98,36 @@
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    style="width:100%;"
   />
 </picture>
 
 ---
+<!-- Divider GIF -->
+<p align="center">
+  <img 
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b"
+    width="100%"
+    alt="Divider Animation"
+  />
+</p>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="full" h="28">
+<!-- Quote -->
+<p align="center">
+  <em>
+    “Quiet nights, loud thoughts — turning ideas into code, one commit at a time.”
+  </em>
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=14&section=footer"/>
-</div>
+<!-- Footer -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=14&section=footer"
+    width="100%"
+    alt="Footer"
+  />
+</p>
+
 
