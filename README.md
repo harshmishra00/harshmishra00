@@ -73,9 +73,6 @@ scalable web apps, clean UIs, and solid backend systems.
 </div>
 <br/>
 
----
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshmishra00)](https://github.com/harshmishra00)
----
 
 ---
 ## 🧩 Holopin Badges
