@@ -7,8 +7,6 @@
 </div> 
 
 
-
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=33C1FF&center=true&vCenter=true&width=1000&lines=Building+Scalable+Web+Applications;Designing+Clean+User+Interfaces;Turning+Ideas+Into+Production+Code" />
 </div>
